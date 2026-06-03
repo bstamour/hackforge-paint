@@ -45,3 +45,6 @@
 /Release/
 /SDL3-SDK/
 /x64/
+
+# Temporary text editor files
+*~
